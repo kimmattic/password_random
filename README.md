@@ -10,4 +10,5 @@ pip insatll pyperclip
 
 จากนั้นสามารถวาง Password ได้ทันทีครับ ขอบคุณครับ
 
-![image](https://github.com/kimmattic/password_random/assets/8522380/926334d2-ebed-408b-b708-1b86f460bd64)
+![image](https://github.com/kimmattic/password_random/assets/8522380/0321eab3-ba05-4ec1-a86a-7cb4722d63f8)
+

@@ -9,3 +9,5 @@ pip insatll pyperclip
 3. จากนั้นใส่จำนวน Password ที่ต้องการให้สุ่มครับ
 
 จากนั้นสามารถวาง Password ได้ทันทีครับ ขอบคุณครับ
+
+![image](https://github.com/kimmattic/password_random/assets/8522380/926334d2-ebed-408b-b708-1b86f460bd64)

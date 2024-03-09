@@ -4,7 +4,7 @@ from tkinter import messagebox
 import pyperclip
 
 gui = Tk()
-gui.title('Password Generator')
+gui.title('สุ่มรหัสผ่าน')
 gui.geometry('250x200')
 gui.resizable(0,0)
 
